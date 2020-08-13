@@ -1,2 +1,2 @@
 # C_Files
-A simple application that shows file handling in C language.
+A simple application that demostrate file handling in C language.
